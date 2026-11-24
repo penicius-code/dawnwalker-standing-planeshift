@@ -3,6 +3,8 @@
 Coen stands upright on walls instead of crouching, for The Blood of Dawnwalker. Single-player only.
 Version 1.0.3 | Tested in game on 2026-09-30 | Status: working, released
 
+**Download:** [latest release](https://github.com/penicius-code/dawnwalker-standing-planeshift/releases/latest) (zip; install steps below), or [Nexus Mods](https://www.nexusmods.com/thebloodofdawnwalker/mods/676)
+
 > Unofficial fan-made modification, not affiliated with or endorsed by Rebel Wolves or Bandai Namco Entertainment. No game files are included.
 
 The mod folder and its internal name are `UprightWallStance`. It is published on Nexus Mods as "Wallwalker - Standing Planeshift": <https://www.nexusmods.com/thebloodofdawnwalker/mods/676>
@@ -46,7 +48,7 @@ Requirements are not bundled. Install them first from their own pages.
 ## Install
 
 1. Install UE4SS for Dawnwalker.
-2. Copy the `Dawnwalker` folder from `package/` into the game folder, so that this file exists:
+2. Download the zip from the [latest release](https://github.com/penicius-code/dawnwalker-standing-planeshift/releases/latest) (the same files as `package/` in this repository) and extract it into the game folder, so that this file exists:
    `The Blood of Dawnwalker\Dawnwalker\Binaries\Win64\ue4ss\Mods\UprightWallStance\Scripts\main.lua`
 3. Start the game and Shadowstep onto a wall. Coen stands upright.
 
