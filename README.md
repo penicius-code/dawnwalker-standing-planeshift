@@ -99,13 +99,6 @@ With Mod Setting Menu installed, the same three switches appear on an in-game pa
 
 **Rollback.** `FixWolfHaste = 0` switches only the wolf repair off. `Enabled = 0` or the toggle key restores the vanilla wall pose. Deleting the folder removes everything.
 
-## Media
-
-<!-- ![Coen crouched on a wall (vanilla) next to Coen standing upright (mod on)](docs/media/before-after-wall.png) -->
-<!-- ![Walking along a wall and around a corner with the mod on](docs/media/wall-walk.gif) -->
-
-Shot list: [docs/media/SCREENSHOT-TODO.md](docs/media/SCREENSHOT-TODO.md)
-
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md). Latest: 1.0.3 (2026-09-30): automatic repair of the stuck wolf after wolf Haste + Shadowstep.
