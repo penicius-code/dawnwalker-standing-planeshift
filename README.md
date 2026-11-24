@@ -5,7 +5,7 @@ Version 1.0.3 | Tested in game on 2026-09-30 | Status: working, released
 
 > Unofficial fan-made modification, not affiliated with or endorsed by Rebel Wolves or Bandai Namco Entertainment. No game files are included.
 
-The mod folder and its internal name are `UprightWallStance`. It is published on Nexus Mods as "Standing Planeshift": <https://www.nexusmods.com/thebloodofdawnwalker/mods/676>
+The mod folder and its internal name are `UprightWallStance`. It is published on Nexus Mods as "Wallwalker - Standing Planeshift": <https://www.nexusmods.com/thebloodofdawnwalker/mods/676>
 
 ## The problem
 
